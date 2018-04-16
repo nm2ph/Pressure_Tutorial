@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8325421972",
+    "firebase_url": "https://tutorial-48615.firebaseio.com",
+    "project_id": "tutorial-48615",
+    "storage_bucket": "tutorial-48615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8325421972:android:5c27f2fa9c08dd42",
+        "android_client_info": {
+          "package_name": "com.wearnotch.notchdemo.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8325421972-08vuhf9lu6g63htvmjp0h73mhr2gj2hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wearnotch.notchdemo.tutorial",
+            "certificate_hash": "58c2924f46d90ee316c7958251817a7e25bc02e5"
+          }
+        },
+        {
+          "client_id": "8325421972-86de1fc80h6h13i95uk9iqs6j4m506u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkP4yyiWERBBRonAOhxdtn8tk0Ld21p8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8325421972-86de1fc80h6h13i95uk9iqs6j4m506u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
